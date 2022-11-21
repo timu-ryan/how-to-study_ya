@@ -24,7 +24,6 @@
   top: 30px;
   left: 64px;
   position: absolute;
-  /* background-image: url(../images/logo_place_header.svg); */
   object-fit: contain;
 }
 
@@ -267,7 +266,6 @@
 }
 
 .table_theme_dark {
-  /* padding-top: 80px; */
   z-index: 2;
 }
 
@@ -339,7 +337,6 @@
 }
 
 .footer__logo {
-  /* background-image: url(../images/logo_place_footer.svg); */
   object-fit: contain;
 }
 
